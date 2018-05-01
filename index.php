@@ -94,8 +94,6 @@
                             <li class="menu-title">Main</li>
 
                             <li class="accueil">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="index.php?page=index&module=dashboard" class="waves-effect"><i class="fa fa-hospital-o "></i> <span> Accueil <!-- <span class="acc_badge badge badge-pill badge-primary pull-right">20+</span> --></span> </a>
                             </li>
 
@@ -108,30 +106,10 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                     <li><a href="index.php?page=agent&module=consultation">Ajouter un Agent</a></li>
                                     <li><a href="index.php?page=ayant_droit&module=consultation">Ajouter un Ayant droit</a></li>
                                     <li><a href="index.php?page=autre&module=consultation">Ajouter un Autre</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                <a href="index.php?page=index&module=dashboard" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Accueil <!-- <span class="acc_badge badge badge-pill badge-primary pull-right">20+</span> --></span> </a>
-                            </li>
-
-                            <li class="has_sub consultation">
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Consultation <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span></span> </a>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.php?page=consultation">Nouvelle Consultation</a></li>
-                                    <li><a href="index.php?page=Hconsultation">Historique des consultations</a></li>
-                                    <li><a href="index.php?page=agent">Ajouter un Agent</a></li>
-                                    <li><a href="index.php?page=ayant_droit">Ajouter un Ayant droit</a></li>
-                                    <li><a href="index.php?page=autre">Ajouter un Autre</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 </ul>
                             </li>
 
                             <li class="infirmier">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="index.php?page=infirmier&module=infirmier" class="waves-effect"><i class="mdi mdi-stethoscope"></i><span> Infirmier <!-- <span class="inf_badge badge badge-pill badge-primary pull-right"></span> --></span></a>
                             </li>
 
@@ -140,43 +118,18 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                 <ul class="list-unstyled">
                                     <li><a href="index.php?page=medecin&module=medecin">Liste des patients</a></li>
                                     <li><a href="index.php?page=rdv&module=medecin">Rendez-vous</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                <a href="index.php?page=infirmier" class="waves-effect"><i class="mdi mdi-cube-outline"></i><span> Infirmier <!-- <span class="inf_badge badge badge-pill badge-primary pull-right"></span> --></span></a>
-                            </li>
-
-                            <li class="has_sub medecin">
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-cube-outline"></i><span> Medecin <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span><!-- <span class="badge badge-pill badge-primary pull-right">4</span></span> --></a>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.php?page=medecin">Liste des patients</a></li>
-                                    <li><a href="index.php?page=rdv">Rendez-vous</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                     <li><a href="">Resultat Examens</a></li>
                                 </ul>
                             </li>
 
 
                             <li class="pharmacien">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="index.php?page=pharmacien&module=pharmacien" class="waves-effect"><i class="mdi mdi-pharmacy "></i><span> Pharmacien <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-=======
-                                <a href="index.php?page=Pharmacien" class="waves-effect"><i class="mdi mdi-email-outline"></i><span> Pharmacien <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-                                <a href="index.php?page=Pharmacien" class="waves-effect"><i class="mdi mdi-email-outline"></i><span> Pharmacien <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 
                             </li>
                             
 
                              <li class="has_sub accidentTravail">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-ambulance"></i><span> Accident de travail <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
                                     <li><a href="index.php?page=accidentTravail&module=accidentTravail">Accident</a></li>
@@ -188,24 +141,6 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                     <li><a href="index.php?page=natureLesion&module=accidentTravail">Nature lésion</a></li>
                                     <li><a href="index.php?page=equipe&module=accidentTravail">Equipe</a></li>
                                     <li><a href="index.php?page=activite&module=accidentTravail">Activité</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-flask-outline"></i><span> Accident de travail <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.php?page=accidentTravail">Accident</a></li>
-                                    <li><a href="index.php?page=natureAccident">Nature Accident</a></li>
-                                    <li><a href="index.php?page=certificat">Certificat</a></li>
-                                    <li><a href="index.php?page=siegeLesion">Siège lésion</a></li>
-                                    <li><a href="index.php?page=secteur">Secteur</a></li>
-                                    <li><a href="index.php?page=agentMateriel"">Agent Materiel</a></li>
-                                    <li><a href="index.php?page=natureLesion">Nature lésion</a></li>
-                                    <li><a href="index.php?page=equipe">Equipe</a></li>
-                                    <li><a href="index.php?page=activite">Activité</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
 
                                 </ul>
                             </li>
@@ -228,15 +163,7 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                             </li>
 
                              <li class="has_sub dashboard">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="javascript:void(0);" class="waves-effect"><i class="fa fa-dashboard"></i><span> Tableau de bord <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-=======
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-flask-outline"></i><span> Tableau de bord <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-flask-outline"></i><span> Tableau de bord <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 <ul class="list-unstyled">
                                     <li class="menu-title dashboard">Consultaion</li>
                                     <li class="dashboard"><a href="index.php?page=consultationDir&module=dashboard">Par direction</a></li>
@@ -314,56 +241,26 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
 
 
                             <li class="has_sub administration">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="javascript:void(0);" class="waves-effect"><i class="ion-android-friends "></i><span> Patient <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
                                     <li><a href="index.php?page=agent&module=administration&sub_mod=patient">Agent</a></li>
                                     <li><a href="index.php?page=ayant_droit&module=administration&sub_mod=patient">Ayant droit</a></li>
                                     <li><a href="index.php?page=autre&module=administration&sub_mod=patient">Autre</a></li>
                                     <li><a href="index.php?page=Type_patient&module=administration&sub_mod=patient">Type Agent</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-account-location"></i><span> Patient <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.php?page=agent">Agent</a></li>
-                                    <li><a href="index.php?page=ayant_droit">Ayant droit</a></li>
-                                    <li><a href="index.php?page=autre">Autre</a></li>
-                                    <li><a href="index.php?page=Type_patient">Type Agent</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 </ul>
                             </li>
 
                             <li class="has_sub administration">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                 <a href="javascript:void(0);" class="waves-effect"><i class="fa fa-user-md n"></i><span> Praticien <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
                                     <li><a href="index.php?page=praticien&module=administration&sub_mod=praticien">Praticien</a></li>
                                     <li><a href="index.php?page=type_praticien&module=administration&sub_mod=praticien">Type Praticien</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-account-location"></i><span> Praticien <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
-                                <ul class="list-unstyled">
-                                    <li><a href="index.php?page=praticien">Praticien</a></li>
-                                    <li><a href="index.php?page=Type_praticien">Type Praticien</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 </ul>
                             </li>
 
                             <li class="has_sub administration">
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-google-pages"></i><span> Consultation <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                     <li><a href="index.php?page=motif&module=administration&sub_mod=consultation">Motif</a></li>
                                     <li><a href="index.php?page=pathologie&module=administration&sub_mod=consultation">Pathologie</a></li>
                                     <li><a href="index.php?page=famille_pathologie&module=administration&sub_mod=consultation">Famille Pathologie</a></li>
@@ -377,34 +274,12 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                     <li><a href="index.php?page=examen&module=administration&sub_mod=consultation">Examen</a></li>
                                     <li><a href="index.php?page=type_examen&module=administration&sub_mod=consultation">Type examen</a></li>
                                     <li><a href="index.php?page=etape&module=administration&sub_mod=consultation">Etape</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                    <li><a href="index.php?page=motif">Motif</a></li>
-                                    <li><a href="index.php?page=pathologie">Pathologie</a></li>
-                                    <li><a href="index.php?page=Famille_Pathologie">Famille Pathologie</a></li>
-                                    <li><a href="pages-directory.html">Directory</a></li>
-                                    <li><a href="index.php?page=lesion">Lésion</a></li>
-                                    <li><a href="index.php?page=accident">Accident</a></li>
-                                    <li><a href="index.php?page=soins">Soins</a></li>
-                                    <li><a href="index.php?page=Acte">Actes</a></li>
-                                    <li><a href="index.php?page=Cause">Cause</a></li>
-                                    <li><a href="index.php?page=Specialite">Spécialité</a></li>
-                                    <li><a href="index.php?page=Examen">Examen</a></li>
-                                    <li><a href="index.php?page=Type_examen">Type examen</a></li>
-                                    <li><a href="index.php?page=Etape">Etape</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 </ul>
                             </li>
 
                             <li class="has_sub administration">
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-cart-outline"></i><span> Societe <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                     <li><a href="index.php?page=societe&module=administration&sub_mod=societe">Société</a></li>
                                     <li><a href="index.php?page=entite&module=administration&sub_mod=societe">Entité</a></li>
                                     <li><a href="index.php?page=professions&module=administration&sub_mod=societe">Profession</a></li>
@@ -414,22 +289,6 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                     <li><a href="index.php?page=lieu_travail&module=administration&sub_mod=societe">Lieu de travail</a></li>
                                     <li><a href="index.php?page=type_contrat&module=administration&sub_mod=societe">Type Contrat</a></li>
                                     <li><a href="index.php?page=categorie&module=administration&sub_mod=societe">Catégorie</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                    <li><a href="index.php?page=Societe">Société</a></li>
-                                    <li><a href="index.php?page=entite">Entité</a></li>
-                                    <li><a href="index.php?page=professions">Profession</a></li>
-                                    <li><a href="index.php?page=agentL">Agent</a></li>
-                                    <li><a href="index.php?page=ayant_droitL">Ayant droit</a></li>
-                                    <li><a href="index.php?page=autreL">Autre</a></li>
-                                    <li><a href="index.php?page=Lieu_travail">Lieu de travail</a></li>
-                                    <li><a href="index.php?page=Type_contrat">Type Contrat</a></li>
-                                    <li><a href="index.php?page=Categorie">Catégorie</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 </ul>
                             </li>
 
@@ -444,23 +303,10 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                             <li class="has_sub administration">
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-flask-outline"></i><span> Pharmacie <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                     <li><a href="index.php?page=medicament&module=administration&sub_mod=pharmacie">Médicament</a></li>
                                     <li><a href="index.php?page=famille_medicament&module=administration&sub_mod=pharmacie">Famille des medicaments</a></li>
                                     <li><a href="index.php?page=forme_medicament&module=administration&sub_mod=pharmacie">Forme des médicaments</a></li>
                                     <li><a href="index.php?page=nature_medicament&module=administration&sub_mod=pharmacie">Nature du mouvement</a></li>
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                    <li><a href="index.php?page=medicament">Médicament</a></li>
-                                    <li><a href="index.php?page=Famille_Medicament">Famille des medicaments</a></li>
-                                    <li><a href="index.php?page=Forme_Medicament">Forme des médicaments</a></li>
-                                    <li><a href="index.php?page=Famille_Medicament">Nature du mouvement</a></li>
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                     <li><a href="">Fournisseur</a></li>
                                     <li><a href="">Bon de Commande</a></li>
                                 </ul>
@@ -469,15 +315,7 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                             <li class="has_sub administration">
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-flask-outline"></i><span> Utilisateur <span class="pull-right"><i class="mdi mdi-chevron-right"></i></span> </span></a>
                                 <ul class="list-unstyled">
-<<<<<<< HEAD
-<<<<<<< HEAD
                                     <li><a href="index.php?page=utilisateur&module=administration&sub_mod=utilisateur">Utilisateurs</a></li>
-=======
-                                    <li><a href="index.php?page=utilisateur&module=utilisateur">Utilisateurs</a></li>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-                                    <li><a href="index.php?page=utilisateur&module=utilisateur">Utilisateurs</a></li>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                     <li><a href="">Fonctionnalité</a></li>
                                     <li><a href="">Profil</a></li>
                                     <li><a href="">Config circuit</a></li>
@@ -623,8 +461,6 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                 if (!empty($_GET["page"])) {
                                     # code...
                                     if(isset($_GET["module"])){
-<<<<<<< HEAD
-<<<<<<< HEAD
                                         if (isset($_GET["sub_mod"])) {
                                             # code...
                                             include('modules/'.$_GET["module"].'/'.$_GET["sub_mod"].'/views/'.$_GET["page"].'.php'); 
@@ -639,18 +475,6 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                         include($_GET["page"].'.php'); 
                                     }
 
-=======
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-                                        include($_GET["module"].'/views/'.$_GET["page"].'.php'); 
-                                        // echo $_GET["module"].'/'.$_GET["page"].'.php';
-                                    }else {
-                                        include($_GET["page"].'.php'); 
-                                    }
-<<<<<<< HEAD
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
                                 }else {
                                     include("consulJour.php"); 
                                 }                           
@@ -799,35 +623,15 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
         <!-- App js -->
         <script src="assets/js/app.js"></script>
         <script src="assets/js/config.js"></script>
-<<<<<<< HEAD
-<<<<<<< HEAD
         <script src="assets/js/profil/utilisateur.js"></script><!-- 
-=======
-        <script src="assets/js/profil/utilisateur.js"></script>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-        <script src="assets/js/profil/utilisateur.js"></script>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
         <script src="assets/js/ControlleurP.js"></script>
         <script src="assets/js/ControlleurL.js"></script>
         <script src="visite/controllers/visiteAccueil.js"></script>
         <script src="visite/controllers/visiteInfirmier.js"></script>
         <script src="visite/controllers/visiteMedecin.js"></script>
-<<<<<<< HEAD
-<<<<<<< HEAD
         <script src="administration/utilisateur/controllers/utilisateur.js"></script>
         <!-- Dashboard -
         <script src="dashboard/controllers/dashboard.js"></script> -->
-=======
-        <script src="utilisateur/controllers/utilisateur.js"></script>
-        <!-- Dashboard -->
-        <script src="dashboard/controllers/dashboard.js"></script>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-        <script src="utilisateur/controllers/utilisateur.js"></script>
-        <!-- Dashboard -->
-        <script src="dashboard/controllers/dashboard.js"></script>
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
     </body>
 
 <!-- Mirrored from themesdesign.in/admiria/layouts/vertical-light-sidebar/tables-responsive.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Nov 2017 12:15:47 GMT -->

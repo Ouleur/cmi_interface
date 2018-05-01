@@ -6,16 +6,8 @@ var id=(sessionStorage.getItem("cmi-id")==null) ? localStorage.getItem("cmi-id")
 var config = {
 	"ui_base":"http://localhost/cmi",
 	"ui_url":"http://localhost/cmi/index.php",
-<<<<<<< HEAD
-<<<<<<< HEAD
 	//"base_url":"http://127.0.0.1:8000",
 	"base_url":"http://127.0.0.1/cmi_dev/web/app.php",
-=======
-	"base_url":"http://127.0.0.1:8000",
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
-=======
-	"base_url":"http://127.0.0.1:8000",
->>>>>>> d9531ae0f0316662477a2b73ea15774163a167ed
 	"auth_token":token,
 	"cmi-id":id
 	
