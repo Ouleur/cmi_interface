@@ -319,7 +319,8 @@ var page=param[0].split('=')[1] ;
     var lieu_naiss = $("#add_item").find("input[name='lieu_naiss']").val();
     var nb_enfant = $("#add_item").find("input[name='nb_enfant']").val();
     var grp_sang = $("#add_item").find("input[name='grp_sang']").val();
-    var photo = $("#add_item").find("input[name='photo']").val();
+    var photo = $("#add_item").find("input[name='photo']")[0];
+
     //var photo = "test de photo";
     var matricule = $("#add_item").find("input[name='matricule']").val();
     var date_naiss = $("#add_item").find("input[name='date_naiss']").val();
@@ -337,10 +338,29 @@ var page=param[0].split('=')[1] ;
     var sit_mat = $(".sit_mat-select").find(":selected").val();
 
 
+    var form = new FormData();
+    form.append("my_file", $("#add_item").find("input[name='photo']")[0].files[0]);
+
+    var settings = {
+      "async": true,
+      "crossDomain": true,
+      "url": config["base_url"]+"/api/uploadImageFile",
+      "method": "POST",
+      "headers": {
+        "x-auth-token": config["auth_token"],
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      "processData": false,
+      "contentType": false,
+      "mimeType": "multipart/form-data",
+      "data": form
+    }
+
+    $.ajax(settings).done(function (response) {
+      
 
 
-
-    var url = "/entite/"+entite+"/lieutravail/"+lieuT+"/profession/"+lProf+"/typecontrat/"+typContr+"/categorie/"+cat+"/type_patient/"+tyP+"/patient/creer?";
+    var url = "/entite/"+entite+"/lieutravail/"+lieuT+"/profession/"+lProf+"/typecontrat/"+typContr+"/categorie/"+cat+"/type_patient/"+tyP+"/photo/"+response.id+"/patient/creer?";
 
     url += "patMatricule="+matricule+"&";
     url += "patPhoto="+photo+"&";
@@ -419,6 +439,9 @@ var page=param[0].split('=')[1] ;
           alert('Vous avez oublié le nom ou le prénom.')
         }
       });
+
+    console.log(response);
+    });
 
 
 

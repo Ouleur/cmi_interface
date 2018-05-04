@@ -476,7 +476,7 @@ fa-h-square "></i> <span> Consultation <span class="pull-right"><i class="mdi md
                                     }
 
                                 }else {
-                                    include("consulJour.php"); 
+                                    include('modules/dashboard/views/idenx.php');
                                 }                           
 
                             ?>

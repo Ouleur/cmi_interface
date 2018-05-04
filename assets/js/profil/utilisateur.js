@@ -25,7 +25,7 @@ function conexion(){
 						sessionStorage.setItem("token",code_html.value);
 						sessionStorage.setItem("cmi-id",code_html.id);
 					}
-	          		window.location = config["ui_url"]+'?page=consulJour';
+	          		window.location = config["ui_url"]+'?page=index&module=dashboard';
 
 			      },
 			      error : function(resultat, statut, erreur){

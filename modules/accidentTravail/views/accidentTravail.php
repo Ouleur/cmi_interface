@@ -77,7 +77,7 @@
 
                                                     </div>
                                                     <div class=" col-md-4">
-                                                        Matricule<br>
+                                                        <label>Matricule</label><br>
                                                         <span class="mtle"></span>
                                                     </div>
                                                     <div class=" col-md-4 form-group">
@@ -86,17 +86,17 @@
                                                         
                                                     </div>
                                                     <div class=" col-md-4">
-                                                        Département/Fonction<br>
+                                                        <label>Département/Fonction</label><br>
                                                         <span class="fonction"></span>
                                                         
                                                     </div>
                                                     <div class=" col-md-4">
-                                                        Département<br>
+                                                        <label>Département</label><br>
                                                         <span class="dpt"></span>
                                                         
                                                     </div>
                                                     <div class=" col-md-4">
-                                                        Catégorie<br>
+                                                        <label>Catégorie</label><br>
                                                         <span class="cat"></span>
                                                         
                                                     </div>
@@ -113,7 +113,7 @@
                                                         <div class=" col-md-12 form-group">
                                                             <label>Lieu de l'accident</label>
                                                             <input type="hidden" name="id" class="edit-id">
-                                                            <input type="text" name="lieu_accident" class="form-control" required placeholder="Reférence"/>
+                                                            <input type="text" name="lieu_accident" class="form-control" required placeholder="Lieu de l'accident"/>
                                                         </div>
                                                         <div class=" col-md-12 form-group">
                                                             <label>Secteur</label>
@@ -126,7 +126,7 @@
                                                                                     
                                                     <div class="col-md-8 form-group">
                                                         <label>Circonstance de l'accident</label>
-                                                        <textarea name="circonstance" class="form-control circonstance" required placeholder="Circonstance" style="height: 123px;"></textarea>
+                                                        <textarea name="circonstance" class="form-control circonstance" required placeholder="Circonstance de l'accident" style="height: 123px;"></textarea>
                                                     </div>
                                                     <div class="col-md-4 form-group">
                                                         <label>Activité</label>
@@ -186,7 +186,7 @@
 
                                                      <div class="col-md-8 form-group">
                                                         <label>Nature de travail au moment de l'accident</label>
-                                                        <textarea type="text" name="nat_trav" class="form-control nature_travail" required placeholder="Reférence"></textarea> 
+                                                        <textarea type="text" name="nat_trav" class="form-control nature_travail" required placeholder="Nature de travail"></textarea> 
                                                     </div>
                                                 </div>
                                             </div>
@@ -205,7 +205,7 @@
                                                          <div class="col-md-12 form-group">
                                                             <label>Nom et prénoms</label>
                                                             <input type="hidden" name="id" class="edit-id">
-                                                            <input type="text" name="reference" class="form-control reference" required placeholder="Reférence"/>
+                                                            <input type="text" name="reference" class="form-control reference" required placeholder="Nom et prénoms"/>
                                                         </div>
                                                         <button type="button" data-animation="false" class="add_temoin btn btn-primary waves-effect waves-light">
                                                                     Ajouter
@@ -215,7 +215,7 @@
                                                     <div class="col-md-3 form-group">
                                                         <label>Matricule</label>
                                                         <input type="hidden" name="id" class="edit-id">
-                                                        <input type="text" name="" class="form-control matricule" required placeholder="Reférence"/>
+                                                        <input type="text" name="" class="form-control matricule" required placeholder="Matricule"/>
                                                     </div>
                                                 
 
