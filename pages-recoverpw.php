@@ -6,9 +6,9 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-        <title>Admiria - Responsive Flat Admin Dashboard</title>
-        <meta content="Admin Dashboard" name="description" />
-        <meta content="Themesbrand" name="author" />
+        <title>CMI - Gestion de centre de santé</title>
+        <meta content="Gestion de centre de santé" name="description" />
+        <meta content="Omarks" name="author" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         <!-- App Icons -->
@@ -40,19 +40,19 @@
                     </h3>
 
                     <div class="p-3">
-                        <h4 class="text-muted font-18 m-b-5 text-center">Reset Password</h4>
-                        <p class="text-muted text-center">Enter your Email and instructions will be sent to you!</p>
+                        <h4 class="text-muted font-18 m-b-5 text-center">Recuperer votre mot de passe</h4>
+                        <p class="text-muted text-center">Entrez votre E-mail et les instructions vous seront envoyées !</p>
 
                         <form class="form-horizontal m-t-30" action="http://themesdesign.in/admiria/layouts/vertical-light-sidebar/index.html">
 
                             <div class="form-group">
                                 <label for="useremail">Email</label>
-                                <input type="email" class="form-control" id="useremail" placeholder="Enter email">
+                                <input type="email" class="form-control" id="useremail" placeholder="Entrez votre email">
                             </div>
 
                             <div class="form-group row m-t-20">
                                 <div class="col-12 text-right">
-                                    <button class="btn btn-primary w-md waves-effect waves-light" type="submit">Reset</button>
+                                    <button class="btn btn-primary w-md waves-effect waves-light" type="submit">Recuperer</button>
                                 </div>
                             </div>
 
@@ -63,8 +63,8 @@
             </div>
 
             <div class="m-t-40 text-center">
-                <p class="">Remember It ? <a href="pages-login-2.html" class="font-500 font-14 font-secondary"> Sign In Here </a> </p>
-                <p class="">© 2017 Admiria. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                <p class="">Se rappeler de moi ? <a href="pages-login-2.html" class="font-500 font-14 font-secondary"> S'enregistrer ICI </a> </p>
+                <p class="">© 2018 CMI. Dévélopper avec <i class="mdi mdi-heart text-danger"></i> par Omarks</p>
             </div>
 
         </div>
