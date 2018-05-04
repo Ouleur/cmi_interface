@@ -63,7 +63,7 @@
             </div>
 
             <div class="m-t-40 text-center">
-                <p class="">Se rappeler de moi ? <a href="login.html" class="font-500 font-14 font-secondary"> S'enregistrer ICI </a> </p>
+                <p class="">Se rappeler de moi ? <a href="login.php" class="font-500 font-14 font-secondary"> S'enregistrer ICI </a> </p>
                 <p class="">© 2018 CMI. Dévélopper avec <i class="mdi mdi-heart text-danger"></i> par Omarks</p>
             </div>
 
